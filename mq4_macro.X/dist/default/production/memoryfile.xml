@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/mq4_macro.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>462</used>
+      <free>15922</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>115554</length>
+      <used>34473</used>
+      <free>81081</free>
+    </memory>
+  </executable>
+</project>
